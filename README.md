@@ -45,7 +45,7 @@
 - [Set Up Discord Bot (Midcap Only)](#SetUp-Discord-Bot-(Optional))
 > [!Notice]
 > There is an extended variant
-- [Extended Seeding Setup (Last Two Lines Blocked)](#Extended-Seeding-Setup-(Last-Two-Lines-Blocked))
+- [Extended Seeding Setup (Last Two Lines Blocked)](#Extended Seeding Setup (Last Two Lines Blocked))
 - [Set Up Discord Bot (Extended Version)](#SetUp-Discord-Bot-(Extended-Version))
 - [Running Scripts Persistently with PM2](#Running-Scripts-Persistently-with-PM2)
 - [Usage](#usage)
