@@ -52,6 +52,7 @@
 
 > [!TIP]  
 > To use both bots you need 2 bot directories and one main directory!
+[> ](https://github.com/FwSchultz/assets/blob/main/bots/2KU77B0N3S/geofence/geofence-struktur.png)
 
 ---
 
