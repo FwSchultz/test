@@ -42,11 +42,11 @@
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Basic Seeding Setup (Midcap Only)](#Basic-Seeding-Setup-(Midcap-Only))
-- [Set Up Discord Bot (Optional: Midcap Only)](#SetUp-Discord-Bot-(Optional))
+- [Set Up Discord Bot (Midcap Only)](#SetUp-Discord-Bot-(Optional))
 > [!Notice]
 > There is an extended variant
 - [Extended Seeding Setup (Last Two Lines Blocked)](#Extended-Seeding-Setup-(Last-Two-Lines-Blocked))
-- [Set Up Discord Bot (Optional: Extended Version)](#SetUp-Discord-Bot-(Optional:Extended-Version))
+- [Set Up Discord Bot (Extended Version)](#SetUp-Discord-Bot-(Extended-Version))
 - [Running Scripts Persistently with PM2](#Running-Scripts-Persistently-with-PM2)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
@@ -184,7 +184,7 @@ docker compose up -d
 ```bash
 docker compose down
 ```
-## Set Up Discord Bot (Optional: Extended Version):
+## Set Up Discord Bot (Extended Version):
 - 1. Rename and fill out the environment file: Channel ID must be not the same as Extended Seeding (script clears channel on startup)
 ```bash
 mv extended.example.env .env
