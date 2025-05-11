@@ -92,9 +92,15 @@ cd hll-geofences-basic
 ```bash
 # 40 Player
 mv seeding.midcap.40player.config.yml config.yml
-# or 50 Player
+```
+or
+```bash
+# 50 Player
 mv seeding.midcap.50player.config.yml config.yml
-# or 60 Player
+```
+or
+```bash
+# 60 Player
 mv seeding.midcap.60player.config.yml config.yml
 ```
 
@@ -184,9 +190,15 @@ cd hll-geofences-extended
 ```bash
 # 60 Player
 mv seeding.3caps.60player.config.yml config.yml
-# or 70 Player
+```
+or
+```bash
+# 70 Player
 mv seeding.3caps.70player.config.yml config.yml
-# or 80 Player
+```
+or
+```bash
+# 80 Player
 mv seeding.3caps.80player.config.yml config.yml
 ```
 
