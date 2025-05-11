@@ -318,7 +318,7 @@ The bot runs as a Discord bot and can be controlled via buttons.
 
 * [ ] Language file support (`en`, `es`, `fr`, `de`)
 * [ ] More seeding logic presets
-* [ ] Admin control panel
+* [x] Admin control panel
 
 ---
 
