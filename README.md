@@ -312,7 +312,7 @@ The bot runs as a Discord bot and can be controlled via buttons.
 
 ## License
 
-Dieses Projekt ist unter der **MIT License** lizenziert.
+This project is licensed under the **MIT License**.
 
 ---
 
